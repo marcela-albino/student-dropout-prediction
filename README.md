@@ -98,3 +98,9 @@ This analysis highlights the importance of data preparation and exploratory anal
 
 Marcella Albino
 Aspiring Data Analyst | Python | Machine Learning | Data Preparation
+
+---
+
+## 📁 Project Files
+- `student-data-analysis.ipynb` → Main analysis notebook
+- `student_data.csv` → Dataset used in the project
