@@ -1,5 +1,5 @@
 # 📊 Student Dropout Analysis & Prediction
-Predicting student dropout through data analysis and machine learning techniques
+Exploring the factors associated with student dropout through data preparation, exploratory data analysis and dimensionality reduction techniques.
 
 ## 📌 Business Problem
 
