@@ -21,10 +21,6 @@ Source:
 
 UCI Machine Learning Repository
 
-Records:
-
-XXXX students
-
 Target Variable:
 
 Dropout / Graduate / Enrolled
@@ -109,20 +105,6 @@ Better allocation of academic support resources
 Improved student retention strategies
 Future predictive analytics initiatives
 
----
-student-dropout-prediction/
-
-│
-
-├── README.md
-
-├── notebooks/
-
-├── data/
-
-├── images/
-
-└── LICENSE
 ---
 
 ## 🚀 Future Improvements
