@@ -1,106 +1,148 @@
-# 📊 Student Data Analysis: Data Preparation and EDA
+# 📊 Student Dropout Analysis & Prediction
+Predicting student dropout through data analysis and machine learning techniques
 
-## 📌 Project Overview
+## 📌 Business Problem
 
-This project focuses on data preparation and exploratory data analysis (EDA) using a student dataset. The goal is to clean, transform, and analyze the data to better understand factors influencing student outcomes such as dropout, graduation, and enrollment.
-
----
-
-## 🎯 Objectives
-
-* Clean and preprocess raw data
-* Handle missing values and inconsistent data types
-* Perform exploratory data analysis (EDA)
-* Identify patterns and relationships between variables
-* Apply dimensionality reduction (PCA)
-* Interpret results to support decision-making
+Educational institutions face significant challenges in retaining students throughout their academic journey. Student dropout affects institutional performance, increases operational costs and reduces graduation rates. Understanding the factors associated with student dropout can help institutions identify at-risk students earlier and implement targeted intervention strategies.
 
 ---
 
-## 🛠️ Tools and Technologies
+## 🎯 Project Objective
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib / Seaborn
-* Scikit-learn
+--> The objective of this project is to explore academic, demographic and socio-economic variables associated with student dropout.
+
+--> Through exploratory data analysis, statistical techniques and dimensionality reduction, this project identifies patterns that may support future predictive models for student retention.
 
 ---
 
 ## 📂 Dataset
 
-The dataset contains student-related information such as:
+Source:
 
-* Age
-* Academic performance
-* Enrollment status (Target variable)
-* Socioeconomic indicators
+UCI Machine Learning Repository
 
----
+Records:
 
-## 🔍 Data Preparation
+XXXX students
 
-The dataset required several preprocessing steps:
+Target Variable:
 
-* Handling missing values (custom NA values)
-* Converting incorrect data types
-* Standardizing categorical variables
-* Ensuring consistency with the data dictionary
+Dropout / Graduate / Enrolled
 
----
+Features include:
 
-## 📊 Exploratory Data Analysis (EDA)
-
-Key analyses performed:
-
-* Distribution of target variable (dropout, graduate, enrolled)
-* Relationship between age and student outcomes
-* Relationship between grades and outcomes
-* Identification of outliers and variability across groups
+Academic performance
+Previous education
+Financial information
+Demographic characteristics
+Social factors
 
 ---
 
-## 📉 PCA (Principal Component Analysis)
+## 🛠️ Tools and Technologies
 
-PCA was applied to:
+Python
 
-* Reduce dimensionality
-* Identify the most relevant features
-* Understand data structure and variance
+Pandas
+
+NumPy
+
+Matplotlib
+
+Scikit-learn
+
+Jupyter Notebook
+
+Principal Component Analysis (PCA)
+
+Statistical Analysis
 
 ---
 
-## 💡 Key Insights
+## 🔍 Project Workflow
 
-* Students who dropped out showed greater variability in age
-* Graduated students had more consistent age distribution
-* Academic performance showed slight differences across groups
-* Some variables demonstrated potential influence on student outcomes
+Data Collection
+
+↓
+
+Data Cleaning
+
+↓
+
+Exploratory Data Analysis
+
+↓
+
+Feature Investigation
+
+↓
+
+Principal Component Analysis
+
+↓
+
+Insights
+
+↓
+
+Future Predictive Model
 
 ---
 
-## 📌 Conclusion
+## 📊 Key Findings
 
-This analysis highlights the importance of data preparation and exploratory analysis in understanding student behavior. The findings suggest that age and academic performance may play a role in predicting student outcomes, although further modeling would be required for prediction.
+- Academic performance showed the strongest relationship with dropout.
+- Financial variables presented moderate influence.
+- PCA successfully reduced data dimensionality while preserving important variance.
+- The dataset contains valuable information for future predictive modelling.
 
+---
+
+## 📉 Business Impact
+
+This analysis demonstrates how educational institutions can use data to better understand dropout behaviour and support evidence-based decision making.
+
+The insights generated may contribute to:
+
+Early identification of at-risk students
+Better allocation of academic support resources
+Improved student retention strategies
+Future predictive analytics initiatives
+
+---
+student-dropout-prediction/
+
+│
+
+├── README.md
+
+├── notebooks/
+
+├── data/
+
+├── images/
+
+└── LICENSE
 ---
 
 ## 🚀 Future Improvements
 
-* Apply machine learning models for prediction
-* Feature engineering
-* Improve model evaluation and validation
-* Integrate SQL for data extraction
+* Machine Learning models
+* Hyperparameter tuning
+* Feature Engineering
+* Interactive Dashboard (Power BI)
+* Model Deployment
 
 ---
 
 ## 👩‍💻 Author
 
-Marcella Albino
-Aspiring Data Analyst | Python | Machine Learning | Data Preparation
+Marcela Albino
 
----
+Data Analytics Student
 
-## 📁 Project Files
-- `student-data-analysis.ipynb` → Main analysis notebook
-- `student_data.csv` → Dataset used in the project
+Dublin, Ireland
+
+LinkedIn
+
+GitHub
