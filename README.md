@@ -119,12 +119,16 @@ Future predictive analytics initiatives
 
 ## 👩‍💻 Author
 
-Marcela Albino
+**Marcela Albino**
 
-Data Analytics Student
+Higher Diploma in Data Analytics for Business
 
-Dublin, Ireland
+CCT College Dublin
 
-LinkedIn
+MSc & PhD in Materials Science
 
-GitHub
+📍 Dublin, Ireland
+
+🔗 LinkedIn: www.linkedin.com/in/marcela-acarvalho
+
+📧 Email: carvalhomarcelaalbino@gmail.com
