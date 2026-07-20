@@ -84,7 +84,38 @@ Insights
 Future Predictive Model
 
 ---
+## 📊 Key Visualizations
 
+### 1. Student Outcome Distribution
+
+This chart shows the distribution of students across the three final outcomes: **Graduate**, **Dropout**, and **Enrolled**. It provides an overview of the class balance and highlights that most students successfully completed their studies.
+
+![Student Outcome Distribution](images/target_distribution.png)
+
+---
+
+### 2. Tuition Fees Status vs Student Outcome
+
+This visualization explores the relationship between tuition fee status and student outcomes. Students with unpaid tuition fees show a noticeably higher proportion of dropouts, suggesting a potential association between financial challenges and academic persistence.
+
+![Tuition Fees Status](images/tuition_status_target.png)
+
+---
+
+### 3. Approved Curricular Units by Student Outcome
+
+The distribution of approved curricular units clearly distinguishes graduates from dropouts. Students with more approved units tend to achieve successful academic outcomes.
+
+![Approved Units](images/approved_units_target.png)
+
+---
+
+### 4. Principal Component Analysis (PCA)
+
+The PCA visualization summarizes the dataset into two principal components, helping identify patterns and group separation while reducing dimensionality.
+
+![PCA Projection](images/pca_projection.png)
+---
 ## 📊 Key Findings
 
 - Academic performance showed the strongest relationship with dropout.
